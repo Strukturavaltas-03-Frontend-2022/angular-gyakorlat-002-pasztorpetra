@@ -18,19 +18,19 @@ export class PricingPageComponent implements OnInit {
     {
      name: "Free",
      price: 0, 
-     options: ["10 tanuló", "2GB tárhely", "Email támogatás", "Dokumentáció"], 
+     options: ["10 tanuló", "2 GB tárhely", "Email támogatás", "Dokumentáció"], 
      btnText: "Ingyenes regisztráció"
     },
     {
      name: "Pro",
      price: 15, 
-     options: ["20 tanuló", "10GB tárhely", "Kiemelt email támogatás", "Dokumentáció"], 
+     options: ["20 tanuló", "10 GB tárhely", "Kiemelt email támogatás", "Dokumentáció"], 
      btnText: "Kezdő lépések"
     },
     {
      name: "Enterprise",
      price: 29, 
-     options: ["100 tanuló", "100GB tárhely", "Telefonos és email támogatás", "Dokumentáció"], 
+     options: ["100 tanuló", "100 GB tárhely", "Telefonos és email támogatás", "Dokumentáció"], 
      btnText: "Kontakt"
     },
     
